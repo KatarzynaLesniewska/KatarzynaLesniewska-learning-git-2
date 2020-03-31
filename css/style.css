@@ -13,13 +13,17 @@ $font-text: 'Montserrat', sans-serif;
 
 h1 {
   font-size: 50px;
+  font-family: $font-header;
 }
 
 h3 {
   font-style: italic;
   font-size: 30px;
+  font-family: $font-header;
 }
 
 div {
   text-align: center;
+  font-family: $font-text;
+  margin-top: 180px;
 }
