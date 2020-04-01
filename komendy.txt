@@ -1,0 +1,8 @@
+
+
+npm install --global --save-dev autoprefixer-cli
+autoprefixer-cli -o style.prefixed.css style.css
+
+
+npm install -g --save-dev html-validate
+html-validate .html
