@@ -6,3 +6,11 @@ autoprefixer-cli -o style.prefixed.css style.css
 
 npm install -g --save-dev html-validate
 html-validate .html
+
+
+
+
+
+npm install --save-dev autoprefixer-cli
+
+npm install autoprefixer-cli --save-dev
